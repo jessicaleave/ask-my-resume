@@ -1,0 +1,93 @@
+Expertise by Domain
+
+Section: Product Analytics and Strategy
+
+1. Drove cross-functional delivery of supplier data tracking and cost modeling software tools.
+   Defined BRD and PRD, prioritized features, coordinated with Engineering, Operations, and Product teams, managed UAT and global rollout.
+
+2. Supported Product Development Process (PDP) through cost and performance analytics, enabling data-informed product roadmap and pricing decisions.
+
+3. Built Python Streamlit and Dash apps to prototype internal analytics tools for product teams.
+
+4. Partnered with global business units to align cost-down initiatives with roadmap milestones and customer engagement.
+
+5. Influenced multi-million-dollar product and service contract negotiations through clear analytical storytelling.
+
+Key Tools: Python (Pandas, NumPy, Plotly, Dash, Streamlit), SQL, Tableau, Excel
+Focus Areas: BRD and PRD, PDP support, product analytics, cost-of-ownership modeling
+
+
+Section: Marketing and Business Insights
+
+1. Led e-commerce and digital marketing performance analysis for consumer electronics products, managing campaign spend and pricing optimization.
+
+2. Created SQL and Tableau reporting systems to track online sales, conversion, and ROI across marketing channels.
+
+3. Delivered insights that guided campaign allocation and reduced cost per acquisition.
+
+4. Partnered with OEM and ODM vendors on new product introduction (NPI) and pricing validation.
+
+5. Presented findings to senior leadership, driving marketing strategy adjustments and product positioning improvements.
+
+Key Tools: SQL, Tableau, Excel, Python (data automation)
+Focus Areas: e-commerce analytics, campaign ROI, pricing strategy, NPI coordination
+
+
+Section: Supply Chain and Procurement Analytics
+
+1. Built and maintained Tableau dashboards and Python automations to monitor part usage, inventory turnover, and supplier performance.
+
+2. Developed Should-Cost and Total Cost of Ownership (TCO) models using SAP, MES, and BOM data.
+
+3. Partnered with Engineering and Sourcing to analyze throughput, OEE, and manufacturing metrics.
+
+4. Conducted cost driver breakdowns, sensitivity and what-if analysis, and cross-fab benchmarking to identify cost-saving opportunities.
+
+5. Supported procurement teams with supplier comparison and negotiation analysis, contributing to significant cost-down programs.
+
+6. Led a burden cost optimization project, refining overhead assumptions based on true logistics and weight or volume correlations.
+
+Key Tools: SAP, Python (Pandas, PySpark), Tableau, Power BI
+Focus Areas: cost modeling, sourcing analytics, supplier performance, inventory optimization
+
+
+Section: Manufacturing and Operations Analytics
+
+1. Conducted MES and SAP data analysis to identify process inefficiencies in semiconductor and display fabs.
+
+2. Built Tableau dashboards to track downtime, yield, OEE, and rework rates for production lines.
+
+3. Designed regression models to predict part reliability and detect early signs of equipment failure.
+
+4. Supported BOM optimization and Cost of Ownership (CoO) modeling across multiple fab product lines.
+
+5. Developed Python automations to clean and merge high-volume measurement data from Cloudera Hadoop and internal systems.
+
+6. Created the Tool Log Analysis Dashboard (Tableau and Streamlit), visualizing tool utilization and downtime patterns.
+
+Key Tools: Python, PySpark, Tableau, MES and SAP data, Cloudera Hadoop
+Focus Areas: process analytics, predictive modeling, manufacturing KPI dashboards
+
+
+Section: Sales Operations and Service Business
+
+1. Managed analytics supporting service contract profitability and recurring KPI reporting for Product and Marketing teams.
+
+2. Built dashboards tracking parts and labor usage, contract margin, and renewal trends across global regions.
+
+3. Supported sales forecasting and over-ordering prevention through analysis of part return and approval patterns.
+
+4. Partnered with field service and finance teams to align cost models with revenue and margin forecasts.
+
+5. Enhanced reporting completeness by fixing SQL logic in customer order reports, ensuring all customers, even zero-order ones, were included.
+
+6. Mentored junior analysts and managed internal enablement for analytics tools.
+
+Key Tools: Tableau, SQL, Python, Excel
+Focus Areas: service analytics, KPI reporting, sales operations, data governance
+
+
+Section: Skills Summary
+
+Languages and Tools:
+SQL, Python (Pandas, NumPy, SciPy, PySpark, Plotly, Dash, Streamlit), Tableau, Power BI, Excel

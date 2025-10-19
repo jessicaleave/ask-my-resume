@@ -1,0 +1,37 @@
+Microsoft Certified: Power BI Data Analyst Associate
+Issued by Microsoft
+Issued September 2024 · Expires September 2026
+Credential ID: 3ACAD3089EDFDAA5
+Skills: Data Visualization, Microsoft Power BI
+
+IBM Data Science Professional Certificate
+Issued by IBM
+Issued November 2023
+Credential ID: KJR4WGGRWD5U
+Skills: Python, Machine Learning
+
+Google Data Analytics Specialization
+Issued by Google
+Issued January 2022
+Credential ID: MMPQBR6AL6J2
+Skills: R Programming, T-SQL, Data Analysis
+
+Python 3 Programming Specialization
+Issued by University of Michigan
+Issued December 2021
+Credential ID: DDFA4C4U973B
+Skills: Python Programming
+
+Machine Learning
+Issued by Stanford Online
+Issued April 2021
+Credential ID: N5S4DM78PSLN
+Skills: Machine Learning
+
+Certified ScrumMaster (CSM)
+Issued by Scrum Alliance
+Skills: Agile Project Management
+
+Google Analytics Individual Qualification
+Issued by Google
+Skills: Digital Marketing Analytics, Web Metrics, Google Analytics

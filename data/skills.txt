@@ -1,0 +1,32 @@
+Skills
+
+Programming:
+Python (Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Plotly, Streamlit, Dash)
+SQL (T-SQL, PostgreSQL)
+
+Analytics Tools:
+Tableau, Power BI, Excel
+
+Data Platforms:
+SAP, Databricks, Cloudera Hadoop
+
+Data Sources:
+SAP
+MES (Manufacturing Execution System)
+CRM (Customer Relationship Management)
+ERP (Enterprise Resource Planning)
+
+Modeling:
+Regression modeling, Cost of Ownership (CoO, TCO), Should-Cost, KPI tracking, CAPEX analysis, ROI evaluation
+
+Process and Documentation:
+UAT (User Acceptance Testing)
+BRD (Business Requirements Document)
+PRD (Product Requirements Document)
+ARIS for business process management (BPM) 
+
+LLM and AI Tools:
+LangChain, Hugging Face, OpenAI API, Chroma
+
+Other Skills:
+Feature trade-off analysis, product roadmap planning, agile project management, cross-functional collaboration, business process optimization, data visualization storytelling, stakeholder management
