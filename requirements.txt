@@ -1,0 +1,16 @@
+# Ask My Resume - Interactive Resume Q&A App (Streamlit + LangChain + OpenAI)
+# Core framework
+streamlit>=1.30.0
+
+# Language model & retrieval
+langchain>=0.1.0
+openai>=1.10.0
+chromadb>=0.5.0
+tiktoken>=0.5.0
+
+# Utilities
+requests>=2.31.0
+numpy>=1.26.0
+
+# For text loading and splitting
+unstructured>=0.12.0
